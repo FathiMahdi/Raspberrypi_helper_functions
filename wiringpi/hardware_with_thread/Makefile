@@ -1,6 +1,6 @@
-SOURCE = hardware_with_thread
+SOURCE = blink_thread
 TARGET = exe
-COMPILER = gcc
+COMPILER = g++
 CPP_FLAGS = "-wall -std=c++11"
 C_FLAGS = "-Wall"
 
