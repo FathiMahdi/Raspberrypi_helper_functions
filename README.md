@@ -1,7 +1,7 @@
 # Raspberrypi_helper_functions
 # Creator FathiMahdi
 # 20 Sep 2021
-# No warraty at all!
+# No warranty at all!
 
 
 /////////////////////////////////////////////////////////////////////////////////////////
